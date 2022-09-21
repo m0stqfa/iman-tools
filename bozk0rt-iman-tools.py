@@ -2,9 +2,8 @@ import webbrowser
 
 print("#####################################")
 print("                                     ")
-print("                                     ")
-print("         Bozk0rt İman Tools          ")
-print("         İnstagram : bozk0rt         ")
+print("        xBozk0rt İman Tools          ")
+print("        İnstagram : xbozk0rt         ")
 print("                                     ") 
 print("#####################################")
 print()
